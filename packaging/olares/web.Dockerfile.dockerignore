@@ -1,0 +1,11 @@
+.git
+.github
+**/target
+dist
+plan
+temp
+craft-fonts
+**/.DS_Store
+**/.env
+**/.env.*
+*.log
